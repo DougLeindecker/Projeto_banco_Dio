@@ -1,2 +1,6 @@
-# Projeto_banco_Dio
-Projeto de simulação de operações bancárias com Python.
+
+# Projeto bancário com Python.
+
+Projeto proposto pela DIO para aprendizado de Python, utilizando de exemplo operações bancárias. 
+
+Instrutor: Guilherme Carvalho.
